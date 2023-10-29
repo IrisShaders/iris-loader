@@ -236,4 +236,6 @@ public interface FabricLoader {
 	 * @return the launch arguments for the game
 	 */
 	String[] getLaunchArguments(boolean sanitize);
+
+	String getRawGameVersion();
 }

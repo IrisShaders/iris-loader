@@ -18,7 +18,7 @@ plugins {
 }
 
 base {
-	archivesName = "fabric-loader"
+	archivesName = "iris-loader"
 }
 
 def ENV = System.getenv()
